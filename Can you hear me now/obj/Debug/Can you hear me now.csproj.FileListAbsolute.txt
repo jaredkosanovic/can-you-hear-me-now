@@ -1,0 +1,9 @@
+c:\users\jared\documents\visual studio 2015\Projects\Can you hear me now\Can you hear me now\bin\Debug\Can you hear me now.exe.config
+c:\users\jared\documents\visual studio 2015\Projects\Can you hear me now\Can you hear me now\bin\Debug\Can you hear me now.exe
+c:\users\jared\documents\visual studio 2015\Projects\Can you hear me now\Can you hear me now\bin\Debug\Can you hear me now.pdb
+c:\users\jared\documents\visual studio 2015\Projects\Can you hear me now\Can you hear me now\obj\Debug\Can you hear me now.csprojResolveAssemblyReference.cache
+c:\users\jared\documents\visual studio 2015\Projects\Can you hear me now\Can you hear me now\obj\Debug\Can_you_hear_me_now.Properties.Resources.resources
+c:\users\jared\documents\visual studio 2015\Projects\Can you hear me now\Can you hear me now\obj\Debug\Can you hear me now.csproj.GenerateResource.Cache
+c:\users\jared\documents\visual studio 2015\Projects\Can you hear me now\Can you hear me now\obj\Debug\Can you hear me now.exe
+c:\users\jared\documents\visual studio 2015\Projects\Can you hear me now\Can you hear me now\obj\Debug\Can you hear me now.pdb
+c:\users\jared\documents\visual studio 2015\Projects\Can you hear me now\Can you hear me now\obj\Debug\Can_you_hear_me_now.Form1.resources
